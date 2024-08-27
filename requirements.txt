@@ -1,0 +1,6 @@
+taichi
+imageio
+matplotlib
+jupyter
+notebook
+ipdb
